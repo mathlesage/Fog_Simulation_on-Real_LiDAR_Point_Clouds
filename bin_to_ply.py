@@ -2,7 +2,7 @@ import numpy as np
 import open3d as o3d
 import os
 
-data_dir = r"C:\Users\USER\OneDrive\Bureau\M2\3D points\lidar\lidar_hdl64_strongest"
+data_dir = r"data\lidar_hdl64_strongest"
 
 fichiers_bin = [
     "2018-02-12_08-56-38_00200.bin",

@@ -4,7 +4,7 @@ import os
 import matplotlib.pyplot as plt
 from fog_simulation import simulate_fog, ParameterSet
 
-fichier_bin = r"C:\Users\USER\OneDrive\Bureau\M2\3D points\lidar\lidar_hdl64_strongest\2018-12-12_09-34-31_03300.bin"
+fichier_bin = r"data\lidar_hdl64_strongest\2018-12-12_09-34-31_03300.bin"
 alphas_a_tester = [0.01, 0.03, 0.06, 0.1]
 n_features = 5
 

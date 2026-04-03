@@ -2,7 +2,7 @@ import os
 import json
 import csv
 
-input_folder = r"C:\Users\USER\datasets\DENSE\SeeingThroughFog\labeltool_labels_refined"
+input_folder = r"data\lidar_hdl64_strongest\DENSE\SeeingThroughFog\labeltool_labels_refined"
 output_csv = r"data/inventaire_meteo.csv"
 
 def extraire_meteo_stf():
